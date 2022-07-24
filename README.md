@@ -31,6 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/NischalJoshi19/Interactive-Rating-Component-Solution/](https://github.com/NischalJoshi19/Interactive-Rating-Component-Solution/)
+- Live Site URL: [https://interactive-rating-component-solution.vercel.app/](https://interactive-rating-component-solution.vercel.app/)
 
 ## My process
 
