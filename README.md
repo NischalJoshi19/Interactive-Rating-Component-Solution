@@ -11,7 +11,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -27,11 +26,11 @@ Users should be able to:
 
 ### Screenshot
 
-(./images/Rating-Component-Screenshot.png)
+![](./images/Rating-Component-Screenshot.png)
 
 ### Links
 
-- Solution URL: (https://https://github.com/NischalJoshi19/Projects/interactive-rating-component-master)
+- Solution URL: [https://github.com/NischalJoshi19/Interactive-Rating-Component-Solution/](https://github.com/NischalJoshi19/Interactive-Rating-Component-Solution/)
 
 ## My process
 
@@ -45,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I took this challenge because rating component is used almost everywhere and I wanted to implement it using CSS trasform property. I had an idea of a card that rotates on pressing the submit button. I am not well-versed with the animation/transition/transform properties of CSS. Through this challenge I have been able to actually implement my idea. It is not a unique idea, not extra-ordinary or something along the lines, however, it is something that I wanted to implement and I have learned while doing it. It makes me feel good and I will be working more with animation/transition/transform properties of CSS moving forward.
 
 ## Author
 
